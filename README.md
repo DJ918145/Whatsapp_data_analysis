@@ -1,2 +1,4 @@
-# Whatsapp_data_analysis
-This project was used for analyzing whatsapp data.
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
